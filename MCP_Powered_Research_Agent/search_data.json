@@ -1,0 +1,18 @@
+{
+    "model context protocol": [
+        "MCP is an open protocol for connecting LLMs with external tools.",
+        "MCP standardizes tool integration.",
+        "MCP supports tools, prompts and resources."
+    ],
+
+    "langgraph": [
+        "LangGraph helps build agent workflows.",
+        "LangGraph supports tool calling agents.",
+        "LangGraph integrates with MCP."
+    ],
+
+    "artificial intelligence": [
+        "AI enables machines to simulate human intelligence.",
+        "LLMs are a major branch of AI."
+    ]
+}

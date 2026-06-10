@@ -1,0 +1,26 @@
+Artificial intelligence is rapidly transforming the global economy, with businesses across 
+all sectors rushing to integrate machine learning models into their core operations. 
+Companies like Google, Microsoft, and OpenAI are investing billions into AI research, 
+fuelling an arms race that shows no signs of slowing down.
+
+However, this progress comes with growing concerns. Millions of workers fear that 
+automation will displace their jobs, particularly in fields like customer service, data entry, 
+and transportation. Governments are struggling to keep up with the pace of change, and 
+regulatory frameworks remain fragmented and often inadequate.
+
+At the same time, AI is delivering remarkable benefits in healthcare. Diagnostic tools 
+powered by deep learning can now detect cancers and rare diseases with accuracy rivalling 
+expert clinicians. Drug discovery timelines that once took decades are being compressed 
+into years. Patients in underserved regions are gaining access to specialist-level 
+consultations through AI-powered telemedicine platforms.
+
+The environmental footprint of AI is another pressing issue. Training large language models 
+consumes enormous amounts of electricity, and data centres are placing increasing strain 
+on power grids. Researchers are actively working on more efficient architectures, but the 
+energy demand continues to outpace efficiency gains for now.
+
+Despite these challenges, optimism remains high among technologists. They argue that 
+every major technological revolution in history — from the printing press to the internet — 
+created far more jobs than it destroyed, and that AI will be no different. The key, they say, 
+lies in proactive investment in education and reskilling programmes to help workers adapt 
+to the new landscape.

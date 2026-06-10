@@ -1,0 +1,1 @@
+Model Context Protocol allows LLMs to communicate with tools through a standard interface.
